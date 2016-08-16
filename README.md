@@ -10,10 +10,10 @@ _A team project built as a review of competencies in using Ember.js, Node.js, Bo
 
 ## Contributors
 
-* [John Dow: https://github.com/dowjohn
-* [Kevin Deganos: https://github.com/kdeganos
-* [LaTaevia Berry: https://github.com/LATAEVIA/
-* [Fernanda Lowe: https://github.com/FeLowe/
+* [John Dow:] (https://github.com/dowjohn)
+* [Kevin Deganos:] (https://github.com/kdeganos)
+* [LaTaevia Berry:] (https://github.com/LATAEVIA/)
+* [Fernanda Lowe:] (https://github.com/FeLowe/)
 
 ## Prerequisites
 
@@ -47,7 +47,7 @@ _Implement development server with live reloading:_
 * _Node.js_
 * _Node Package Manager_
 * _Bower_
-* _Angular2_
+* _Ember.js_
 * _TypeScript_
 
 ## Copyright
